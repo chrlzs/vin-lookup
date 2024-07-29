@@ -1,3 +1,7 @@
+![License](https://img.shields.io/github/license/chrlzs/vin-lookup)
+![Dependencies](https://img.shields.io/david/chrlzs/vin-lookup)
+![Version](https://img.shields.io/github/package-json/v/chrlzs/vin-lookup)
+
 # vin-lookup
 VIN Decoder and Reporting Service
 
